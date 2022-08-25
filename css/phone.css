@@ -125,4 +125,8 @@
         font-size:15px;
         padding: 0px 20px;
     }
+    .contact-box input,.contact-box textarea{
+        padding:8px;
+        font-size:15px;
+    }
 }
