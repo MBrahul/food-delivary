@@ -124,6 +124,8 @@
     .btn{
         font-size:15px;
         padding: 0px 20px;
+        width: 121px;
+       height: 37px; 
     }
     .contact-box input,.contact-box textarea{
         padding:8px;
